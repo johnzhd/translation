@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="width:100%; height:auto;" viewBox="0 0 715 360" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" id="graph0" transform="scale(1) rotate(0) translate(4 356)">
+<title>fullGraph</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-356 1109.3,-356 1109.3,4 -4,4"/>
+<g class="cluster" id="clust1"><title>cluster_expressionGraph</title>
+<polygon fill="none" stroke="black" points="8,-192 8,-344 574,-344 574,-192 8,-192"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="291" y="-328.8">expressionGraph</text>
+</g>
+<!-- Node_0xc420146300 -->
+<g class="node" id="node1"><title>Node_0xc420146300</title>
+<polygon fill="none" stroke="#ff0000" points="206,-287.5 206,-308.5 254,-308.5 254,-287.5 206,-287.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="225.5" y="-294.3">2</text>
+<polygon fill="none" stroke="#ff0000" points="254,-287.5 254,-308.5 558,-308.5 558,-287.5 254,-287.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="257" y="-294.3">+ false(%a8d96c31, %82d6f1c8) :: int</text>
+<polygon fill="none" stroke="#ff0000" points="206,-266.5 206,-287.5 254,-287.5 254,-266.5 206,-266.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="221.5" y="-273.3">Op</text>
+<polygon fill="none" stroke="#ff0000" points="254,-266.5 254,-287.5 558,-287.5 558,-266.5 254,-266.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="323" y="-273.3">+ false :: a → a → a</text>
+<polygon fill="none" stroke="#ff0000" points="206,-245.5 206,-266.5 558,-266.5 558,-245.5 206,-245.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="373.5" y="-252.3">()</text>
+<polygon fill="none" stroke="#ff0000" points="206,-224.5 206,-245.5 558,-245.5 558,-224.5 206,-224.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="373.5" y="-231.3">-1</text>
+<polygon fill="none" stroke="#ff0000" points="206,-203.5 206,-224.5 254,-224.5 254,-203.5 206,-203.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="209" y="-210.3">Value</text>
+<polygon fill="none" stroke="#ff0000" points="254,-203.5 254,-224.5 558,-224.5 558,-203.5 254,-203.5"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="377" y="-210.3">2 :: int</text>
+</g>
+<!-- Node_0xc420146000 -->
+<g class="node" id="node2"><title>Node_0xc420146000</title>
+<polygon fill="lightyellow" stroke="none" points="217.5,-4 217.5,-88 338.5,-88 338.5,-4 217.5,-4"/>
+<polygon fill="none" stroke="#00ff00" points="218,-67 218,-88 266,-88 266,-67 218,-67"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="237.5" y="-73.8">0</text>
+<polygon fill="none" stroke="#00ff00" points="266,-67 266,-88 339,-88 339,-67 266,-67"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="269" y="-73.8">x :: int</text>
+<polygon fill="none" stroke="#00ff00" points="218,-46 218,-67 339,-67 339,-46 218,-46"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="270" y="-52.8">()</text>
+<polygon fill="none" stroke="#00ff00" points="218,-25 218,-46 339,-46 339,-25 218,-25"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="270" y="-31.8">-1</text>
+<polygon fill="none" stroke="#00ff00" points="218,-4 218,-25 266,-25 266,-4 218,-4"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="221" y="-10.8">Value</text>
+<polygon fill="none" stroke="#00ff00" points="266,-4 266,-25 339,-25 339,-4 266,-4"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="273.5" y="-10.8">1 :: int</text>
+</g>
+<!-- Node_0xc420146300&#45;&gt;Node_0xc420146000 -->
+<g class="edge" id="edge1"><title>Node_0xc420146300⚓️s-&gt;Node_0xc420146000⚓️n</title>
+<path fill="none" stroke="black" d="M 382 -202.5 C 382 -137.689 288.68 -155.213 278.837 -99.0855"/>
+<polygon fill="black" stroke="black" points="282.315,-98.6762 278,-89 275.339,-99.2553 282.315,-98.6762"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="385.75" y="-191.3"> 0 </text>
+</g>
+<!-- Node_0xc420146240 -->
+<g class="node" id="node3"><title>Node_0xc420146240</title>
+<polygon fill="lightyellow" stroke="none" points="426.5,-4 426.5,-88 547.5,-88 547.5,-4 426.5,-4"/>
+<polygon fill="none" stroke="#00ff00" points="427,-67 427,-88 475,-88 475,-67 427,-67"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="446.5" y="-73.8">1</text>
+<polygon fill="none" stroke="#00ff00" points="475,-67 475,-88 548,-88 548,-67 475,-67"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="478" y="-73.8">y :: int</text>
+<polygon fill="none" stroke="#00ff00" points="427,-46 427,-67 548,-67 548,-46 427,-46"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="479" y="-52.8">()</text>
+<polygon fill="none" stroke="#00ff00" points="427,-25 427,-46 548,-46 548,-25 427,-25"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="479" y="-31.8">-1</text>
+<polygon fill="none" stroke="#00ff00" points="427,-4 427,-25 475,-25 475,-4 427,-4"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="430" y="-10.8">Value</text>
+<polygon fill="none" stroke="#00ff00" points="475,-4 475,-25 548,-25 548,-4 475,-4"/>
+<text font-family="monospace" font-size="14px" text-anchor="start" x="482.5" y="-10.8">1 :: int</text>
+</g>
+<!-- Node_0xc420146300&#45;&gt;Node_0xc420146240 -->
+<g class="edge" id="edge2"><title>Node_0xc420146300⚓️s-&gt;Node_0xc420146240⚓️n</title>
+<path fill="none" stroke="black" d="M 382 -202.5 C 382 -137.404 476.218 -155.453 486.155 -99.1258"/>
+<polygon fill="black" stroke="black" points="489.656,-99.2565 487,-89 482.68,-98.6742 489.656,-99.2565"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="374.5" y="-191.3"> 1 </text>
+</g>
+<!-- outsideRoot -->
+<!-- insideInputs -->
+<!-- outsideRoot&#45;&gt;insideInputs -->
+<!-- outsideExprG -->
+<!-- outsideRoot&#45;&gt;outsideExprG -->
+<!-- insideExprG -->
+<!-- insideInputs&#45;&gt;insideExprG -->
+<!-- outsideExprG&#45;&gt;insideExprG -->
+</g>
+</svg>
